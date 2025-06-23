@@ -1,0 +1,4 @@
+"Yesterday, I was walking to {place} when I saw a {adjective} {noun} flying through the sky! 
+It was a spaceship piloted by a {adjective2} alien named {name}. The alien invited me aboard 
+and we zoomed off to {planet}. There, we had a {adjective3} feast of {plural_noun} and played 
+{game} with three-eyed creatures. It was the most {adjective4} day of my life!"

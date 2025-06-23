@@ -1,0 +1,5 @@
+"On the first day of school, I was feeling {emotion}. I packed my {adjective} {noun} 
+and walked to {place}. My teacher's name was Mr./Ms. {last_name}, and they were very 
+{adjective2}. We learned how to {verb} and played with {plural_noun}. At lunch, I sat 
+next to {celebrity} and ate a {adjective3} sandwich filled with {gross_thing}. Best first day ever!"
+

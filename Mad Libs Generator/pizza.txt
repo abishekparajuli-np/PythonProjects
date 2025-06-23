@@ -1,0 +1,4 @@
+"I was throwing a pizza party at my {place}. I ordered a {adjective} pizza with extra {plural_noun}
+ and {food}. When the delivery driver arrived, they were actually a {job} in disguise! 
+ They {verb_past_tense} the pizza into the air and it landed on my {body_part}. Everyone 
+ started {verb_ending_in_ing}, and it turned into a(n) {adjective2} food fight. Best. Party. Ever."

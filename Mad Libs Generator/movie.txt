@@ -1,0 +1,5 @@
+"Last night, I went to the movies with my {relation}. We watched a {adjective} film about
+ a {noun} who wanted to {verb} the world. The hero was played by {celebrity}, who wore a 
+ {color} cape and had a sidekick named {silly_name}. At one point, they rode a {animal} 
+ into battle against a giant {monster}. Everyone in the theater was {emotion}. It was the
+  most {adjective2} movie I've ever seen!"
